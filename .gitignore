@@ -27,12 +27,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
-.env.local
-.env.development
-.env.test
 .env.prod
-.env.production
 
 
 # vercel
@@ -44,3 +39,6 @@ next-env.d.ts
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
+!.env.example
+*.bat
+config.bat
