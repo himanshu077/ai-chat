@@ -42,3 +42,4 @@ temp_interactive_push.bat
 !.env.example
 *.bat
 config.bat
+.env
